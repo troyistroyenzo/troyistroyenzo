@@ -12,15 +12,21 @@
 
 
 
+  ## sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ 
 ┌───────────▰▰▰<br/> 
 │<br/>
-
-[![YOUTUBE CHANNEL](https://img.shields.io/youtube/channel/subscribers/UClNXlSyAxMJuJugVblqpz_Q?style=for-the-badge)](https://www.youtube.com/channel/UClNXlSyAxMJuJugVblqpz_Q)
-
-
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+|
+|
+|
+|
 │<br/>
 └───────────────────────────────▰▰▰<br/>
+
 
 
 
@@ -42,4 +48,10 @@
 ├─◈ ᴀᴛᴛɪᴛᴜᴅᴇ, ᴘᴇʀsᴇᴠᴇʀᴀɴᴄᴇ ᴀɴᴅ ᴍɪɴᴅsᴇᴛ<br/>
 │<br/>
 └───────────────────────────────▰▰▰<br/>
+
+[website]: https://www.troyenzo.com/
+[youtube]: https://www.youtube.com/channel/UClNXlSyAxMJuJugVblqpz_Q
+[instagram]: https://www.instagram.com/troyenzoo/
+[linkedin]: https://www.linkedin.com/in/troy-pastoral-699a75187/
+
 
