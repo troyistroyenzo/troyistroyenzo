@@ -10,7 +10,7 @@
 └───────────────────────────────▰▰▰<br/>
 <br/>
 [![Website](https://img.shields.io/website?label=troyenzo.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.troyenzo.com/)
-[![Twitter Follow](https://img.shields.io/youtube/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UClNXlSyAxMJuJugVblqpz_Q)
+[![Twitter Follow](https://img.shields.io/youtube/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UClNXlSyAxMJuJugVblqpz_Q)
 <br/>
 ┌──┤ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ├─────────▰▰▰<br/>
 │<br/>
