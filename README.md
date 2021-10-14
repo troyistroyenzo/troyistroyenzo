@@ -9,7 +9,7 @@
 │<br/>
 └───────────────────────────────▰▰▰<br/>
 <br/>
-
+[![YOUTUBE CHANNEL](https://img.shields.io/youtube/channel/subscribers/UClNXlSyAxMJuJugVblqpz_Q?style=for-the-badge)](https://www.youtube.com/channel/UClNXlSyAxMJuJugVblqpz_Q)
 
 <br/>
 ┌──┤ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ├─────────▰▰▰<br/>
