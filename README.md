@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troysistroyenzo&label=Profile%20views&color=0e75b6&style=flat" alt="troysistroyenzo" /> </p>
 
-- 🤔 I'm a full stack engineer, smart contract, prompt, and data science engineer looking to build things that scale and help the world. 
+🤔 I'm a full stack engineer, smart contract, prompt, and data science engineer which a vision to build things that scale and help the world. 
+
+<h3 align="left">Stuff About Me:</h3>
 
 - 🔭 I’m currently working on **VeriFi, A Decentralized Ecosystem for streamlining Digital Assets**
 
-- 📫 How to reach me **yortozne@gmail.com**
+- 🔗 I mainly code in Typescript, using the Next.JS framework. I'm also not that good at it
 
-- ⚡ Fun fact **my experience of life is purely caffeinated ☕**
+- 🔨 I believe in iteration instead of perfection, keeping things simple and working hard till your hands ache.
+
+- 🏋️‍♀️ When I don't code, I hit the gym pretty hard. I think it's important to be mentally and physically fit (jacked nerd lol)
+
+- ☕ **my experience of life is purely caffeinated **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
