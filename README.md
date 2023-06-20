@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troysistroyenzo&label=Profile%20views&color=0e75b6&style=flat" alt="troysistroyenzo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=troysistroyenzo" alt="troysistroyenzo" /></a> </p>
+- 🤔 I'm a full stack engineer, smart contract, prompt, and data science engineer looking to build things that scale and help the world. 
 
 - 🔭 I’m currently working on **VeriFi, A Decentralized Ecosystem for streamlining Digital Assets**
-
-- 🌱 I’m currently learning **smart contrats**
-
-- 👯 I’m looking to collaborate on **more AI & Web3 Projects**
-
-- 🤝 I’m looking for help with **finding cofounders**
-
-- 👨‍💻 All of my projects are available at [troyenzo.vercel.app](troyenzo.vercel.app)
 
 - 📫 How to reach me **yortozne@gmail.com**
 
