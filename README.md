@@ -19,9 +19,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="angular" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="angular" width="40" height="40"/> </a> 
 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="[https://angular.io/assets/images/logos/angular/angular.svg](https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png)" alt="angular" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.stackshare.io%2Fservice%2F12421%2FrzylUjaf_400x400.jpg&f=1&nofb=1&ipt=fdf33049dba0fe1ff9d2edd411bc0d1d646c5275eaed472aa0090abf242bc2d6&ipo=images" alt="angular" width="40" height="40"/> </a> 
+
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   
   
   
