@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="angular" width="40" height="40"/> </a> 
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="[https://angular.io/assets/images/logos/angular/angular.svg](https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png)" alt="angular" width="40" height="40"/> </a>
   
