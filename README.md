@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Web3 Builder & Entreprenuer</h1>
-<h3 align="center">Full Stack Engineer, Smart Contract Engineer, Prompt Engineer, and Data Scientist</h3>
+<h1 align="center">ʜᴇʏ ᴛʜᴇʀᴇ! 👋 ɪ'ᴍ ᴛʀᴏʏ, ᴀ ᴡᴇʙ3 ʙᴜɪʟᴅᴇʀ & ᴇɴᴛʀᴇᴘʀᴇɴᴜᴇʀ</h1>
+<h3 align="center">Web3, AI, Design and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troysistroyenzo&label=Profile%20views&color=0e75b6&style=flat" alt="troysistroyenzo" /> </p>
 
