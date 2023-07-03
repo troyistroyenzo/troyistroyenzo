@@ -7,7 +7,7 @@
 
 <h3 align="left">Stuff About Me:</h3>
 
-- 🔭 I’m currently working on **VeriFi, A Decentralized Ecosystem for streamlining Digital Assets**
+- 🔭 I’m currently working on <a href="https://verifi-dapp.vercel.app/" target="blank">**VeriFi, A Decentralized Ecosystem for streamlining Digital Assets**</a>
 
 - 🔗 I mainly code in Typescript, using the Next.JS framework. I'm also not that good at it
 
